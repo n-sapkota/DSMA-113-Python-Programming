@@ -34,8 +34,8 @@ By the end of this course, students will be able to:
 - Virtual environments, comments, indentation, tokens, operators
 
 ### Unit 2: Decision and Loops
-- **Conditional Statements:** `if`, `if-else`, `switch`
-- **Looping Statements:** `for`, `while`, `do-while`
+- **Conditional Statements:** `if`, `if-else`, `if-elif-else`
+- **Looping Statements:** `for`, `while`
 - **Exception Handling**
 
 ### Unit 3: Built-In Data Types
